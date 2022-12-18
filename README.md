@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dodgemech
+## 👋 Hi, I’m @Dodgemech
 - 🖥️ I just graduated from the University of Oregon's Fullstack Developer Bootcamp!
 - 👀 I’m interested in developing my skillset with different technologies
 - 🌱 I’m currently learning python
