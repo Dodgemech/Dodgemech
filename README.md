@@ -2,7 +2,7 @@
 - 🖥️ I just graduated from the University of Oregon's Fullstack Developer Bootcamp!
 - 👀 I’m interested in developing my skillset with different technologies
 - 🌱 I’m currently learning python
-- 📫 You can reach me at Armyman1992@hotmail.com | https://dodgemech.github.io/react-portfolio | https://www.linkedin.com/in/travis-geers-6b36a0167/
+- 📫 You can reach me at Armyman1992@hotmail.com | https://www.linkedin.com/in/travis-geers-6b36a0167/
 
 <!---
 Dodgemech/Dodgemech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
